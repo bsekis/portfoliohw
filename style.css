@@ -1,0 +1,89 @@
+
+@media screen and (max-width:768px) 
+{
+    .body {
+        font-family: 'Ubuntu Condensed', sans-serif;
+          }
+          
+    .jumbotron {
+        background-image: url(home-image.jpeg);
+        background-size: 100%;
+    }
+
+    .footer {
+        position:absolute;
+        bottom: 0;
+        width: 100%;
+        height: 60px;
+        line-height: 60px;
+        background-color: #394549
+    
+        
+    }
+    #full { 
+        background-color:#394549;
+        color: white;
+        overflow: auto;
+        width: 100%; 
+    }
+
+    }     
+    .float-left {
+    height: 200px;
+    width: 200px;
+    }
+    .center {
+        position: absolute;
+        background-color: #eeeeee
+    }
+    .wrapper {
+    width: 0px;
+    }
+    p {
+    font-family:'Playfair Display', serif;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 20px;
+        }
+    h1 {
+    font-family: 'Marcellus', serif;
+    font-size: 36px;
+    line-height: 45px;
+    font-weight: bolder;
+    }
+    .form-control-lg {
+    font-family:'Marcellus', serif; 
+    height: 10px
+
+    }
+
+    .form-control-sm {
+    font-family:'Marcellus', serif; 
+    height: 10px
+
+    }
+    .form-group {
+    font-family:'Marcellus', serif; 
+    }
+    .hr {
+    width: 80%;height: 100px;margin-left: auto;margin-right: auto;background-color:#666;border: 20px none;margin-top: 100px;margin-bottom:100px;}
+    .image-fluid {
+    max-width: 100%;
+    height: auto; 
+    }
+    .full {
+        clear: both; 
+        background-color:#394549;
+        color: white;
+        overflow: auto;
+        width: 100%; 
+    }
+    .form-group {
+        text-align: center;
+    }
+    .ml-3 {
+        height: 64px;
+        width: 64px;
+    }
+
+        
